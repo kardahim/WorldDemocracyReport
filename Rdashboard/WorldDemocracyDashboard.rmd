@@ -353,6 +353,7 @@ renderPlotly({
 Data published by: Our World In Data, Bastian Herre  
 Article: https://ourworldindata.org/democracies-age  
 App creator: Paweł Ciszewski  
+App code: https://github.com/kardahim/WorldDemocracyReport  
 
 
 ### Democracy Dataset
